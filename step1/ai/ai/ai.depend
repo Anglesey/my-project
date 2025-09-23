@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757615239 source:c:\users\lenovo\onedrive\Рабочий стол\lab1\step1\ai\ai\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
